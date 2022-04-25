@@ -1,0 +1,29 @@
+
+Ola pessoaljustes solicitados:
+
+Confirmação dos e-mails
+•	Confirmação dos e-mails – Flag perguntando se o usuário que está criando o item confirma que os campos com os nomes do profissionais preenchidos estão de acordo) – 1 Dia
+•	Texto com LGPD – Texto na página principal e por cada equipe/Departamento, informando sobre LGPD.  1 hora
+•	Atualização de Fluxo Inicial – Modificação no processo de preenchimento do formulário, iniciando pelo campo de Desligamento voluntário ao invés do campo de Realizar Pesquisa -  2 dias
+•	Atualização dos E-mails – Atualização das mensagens que são enviadas automaticamente pelo workflow para os profissionais. – Sem prazo(Realizaremos nos dias dos testes)
+•	Campos não necessários – Remover ou Esconder campo de Justificativa para não gerar confusão nos cenários de devolução para cada área. – 1 dia(Avaliar antes se realmente não é necessário)
+•	Prazo SLA – Gerar uma nova coluna no Sharepoint com o cálculo do Dia da Criação do Item + 3 dias e apresentar como o Prazo para responder o Formulário. 1 dia.
+
+Att,
+
+Classificação: () Pública  (X) Confidencial  (  ) Confidencial de Alto Risco
+
+--
+Brendon Calazans
+Deloitte Touche Tohmatsu
+Systems Analyst | BPS | Business Process Solutions
+Rua São Bento, 18 – 15 th  floor, Centro, Rio de Janeiro, Brasil 
+brcalazans@deloitte.com | www.deloitte.com.br
+--
+
+ 
+
+Esta comunicação, incluindo seus anexos, é destinada exclusivamente ao uso do indivíduo a que se destina, podendo conter informações confidenciais e ser considerada reservada e/ou privilegiada. Se você não for o destinatário pretendido, notifique-me imediatamente, respondendo a este e-mail com confirmação da exclusão desta comunicação e todas as suas cópias de seus dispositivos. O uso não autorizado dessa comunicação é vedado.
+
+Pense no meio ambiente antes de imprimir.
+
